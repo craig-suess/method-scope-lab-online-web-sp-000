@@ -1,3 +1,3 @@
-def catch_phrase(argument)
-  puts phrase
+def catch_phrase
+  puts "catch phrase"
 end
